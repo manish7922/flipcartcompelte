@@ -1,0 +1,34 @@
+.cartMiss {
+    display: block;
+    font-size: 18px;
+    margin-top: 24px;
+}
+._1LCJ1U1{
+    display: block;
+    font-size: 34px;
+    margin-top: 24px;
+    font-weight: 700;
+    color: mediumblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.imgCart {
+    height: 162px;
+}
+.colomFirstCart {
+    text-align: center;
+    padding: 30px 0px 36px;
+    background: rgb(255, 255, 255);
+}
+.logMiss{
+   
+        display: block;
+        font-size: 12px;
+        margin-top: 10px;   
+}
+body {
+    font-size: 14px;
+    color: #212121;
+    line-height: 1.4;
+    font-family: Roboto,Arial,sans-serif;
+}

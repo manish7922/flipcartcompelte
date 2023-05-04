@@ -1,0 +1,369 @@
+.firstClass{
+    margin-top: 1em;
+    width: 97%;
+    max-width: 100%;
+    min-width: 300px;
+    max-height: 500px;
+    min-height: 400px;
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+margin-left: 1em;
+}
+.rowfistSetProducts{
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+ margin-left: 0.2em;
+}
+
+.btnClasss{
+    width: 100%;
+    margin-right: 2em;
+margin-bottom: 5px;
+margin-top: 5px;
+display: flex;
+}
+.productClaas{
+    width: 50%;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 500;
+}
+.btnClasss1{
+    width: 50%;
+    text-align: right;
+}
+.rowSecSetProducts{
+    width: 100%;
+    display: flex;
+
+}
+.firstColomProducts{
+width: 10%;
+/* top:50%; */
+/* margin-top: 5em; */
+text-align: center;
+display: flex;
+}
+.SecColomProducts{
+width:80%;
+max-width: 100%;
+min-width: 200px;
+min-height: 300px;
+max-height: 500px;
+
+}
+.thirdColomProducts{
+width: 10%;
+text-align: right;
+/* margin-top: 5em; */
+display: flex;
+}
+.buttonClass{
+    border: none;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+.rowFirstWithProducts{
+    display: flex;
+    width: 100%;
+    max-width: 100%;
+    min-width: 200px;
+    min-height: 300px;
+    max-height: 500px;
+}
+
+.colomSetWithProducts{
+    justify-content: space-between;
+    margin: 15px;
+}
+
+@media (max-width: 998px) {
+    .rowSecSetProducts{
+        width: 100%;
+        display: flex;
+    
+    }
+    .firstColomProducts{
+    width: 10%;
+    /* top:50%; */
+    /* margin-top: 5em; */
+    text-align: center;
+    display: flex;
+    }
+    .SecColomProducts{
+    width:80%;
+    max-width: 100%;
+    min-width: 200px;
+    min-height: 300px;
+    max-height: 500px;
+    
+    }
+    .thirdColomProducts{
+    width: 10%;
+    text-align: right;
+    /* margin-top: 5em; */
+    display: flex;
+    }
+    .buttonClass{
+        border: none;
+        background-color: white;
+        color: black;
+        font-size: 20px;
+    }
+    .rowFirstWithProducts{
+        display: flex;
+        width: 100%;
+        max-width: 100%;
+        min-width: 200px;
+        min-height: 300px;
+        max-height: 500px;
+    }
+    
+    .colomSetWithProducts{
+        justify-content: space-between;
+        margin: 15px;
+        width: 20%;
+        margin: 30px;
+    }
+    .nameSet{
+        width: 200px;
+        height: auto;
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .nameColomSet{
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .rowsecondSet{
+        width: 100px;
+        height: auto;
+      margin-top: 5px;
+      margin-left: 1em;
+      font-size: 12px;
+    }
+}
+@media (max-width: 660px) {
+    .rowSecSetProducts{
+        width: 100%;
+        display: flex;
+    
+    }
+    .firstColomProducts{
+    width: 10%;
+    /* top:50%; */
+    /* margin-top: 5em; */
+    text-align: center;
+    display: flex;
+    }
+    .SecColomProducts{
+    width:80%;
+    max-width: 100%;
+    min-width: 200px;
+    min-height: 300px;
+    max-height: 500px;
+    
+    }
+    .thirdColomProducts{
+    width: 10%;
+    text-align: right;
+    /* margin-top: 5em; */
+    display: flex;
+    }
+    .buttonClass{
+        border: none;
+        background-color: white;
+        color: black;
+        font-size: 20px;
+    }
+    .rowFirstWithProducts{
+        display: flex;
+        width: 100%;
+        max-width: 100%;
+        min-width: 200px;
+        min-height: 300px;
+        max-height: 500px;
+    }
+    
+    .colomSetWithProducts{
+        justify-content: space-between;
+        margin: 20px;
+        width: 10%;
+        margin: 50px;
+        margin-top: 4em;
+    }
+    .colomSetWithProducts img{
+        width:120px;
+        height: 150px;
+    }
+
+    .nameSet{
+        width: 200px;
+        height: auto;
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .nameColomSet{
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .rowsecondSet{
+        width: 100px;
+        height: auto;
+      margin-top: 5px;
+      margin-left: 1em;
+      font-size: 12px;
+    }
+
+}
+
+@media (max-width: 592px) {
+    .rowSecSetProducts{
+        width: 100%;
+        display: flex;
+    
+    }
+    .firstColomProducts{
+    width: 10%;
+    text-align: center;
+    display: flex;
+    }
+    .SecColomProducts{
+    width:80%;
+    max-width: 100%;
+    min-width: 200px;
+    min-height: 300px;
+    max-height: 500px;
+    
+    }
+    .thirdColomProducts{
+    width: 10%;
+    text-align: right;
+    /* margin-top: 5em; */
+    display: flex;
+    }
+    .buttonClass{
+        border: none;
+        background-color: white;
+        color: black;
+        font-size: 20px;
+    }
+    .rowFirstWithProducts{
+        display: flex;
+        width: 100%;
+        max-width: 100%;
+        min-width: 200px;
+        min-height: 300px;
+        max-height: 500px;
+    }
+    
+    .colomSetWithProducts{
+        justify-content: space-between;
+        margin: 15px;
+        width: 10%;
+        margin: 50px;
+        margin-top: 4em;
+    }
+    .colomSetWithProducts img{
+        width:120px;
+        height: 150px;
+    }
+    .nameSet{
+        width: 200px;
+        height: auto;
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .nameColomSet{
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .rowsecondSet{
+        width: 100px;
+        height: auto;
+      margin-top: 5px;
+      margin-left: 1em;
+      font-size: 12px;
+    }
+
+}
+
+@media (max-width: 400px) {
+    .rowSecSetProducts{
+        width: 100%;
+        display: flex;
+    
+    }
+    .firstColomProducts{
+    width: 10%;
+    /* top:50%; */
+    /* margin-top: 5em; */
+    text-align: center;
+    display: flex;
+    }
+    .SecColomProducts{
+    width:80%;
+    max-width: 100%;
+    min-width: 200px;
+    min-height: 300px;
+    max-height: 500px;
+    
+    }
+    .thirdColomProducts{
+    width: 10%;
+    text-align: right;
+    /* margin-top: 5em; */
+    display: flex;
+    }
+    .buttonClass{
+        border: none;
+        background-color: white;
+        color: black;
+        font-size: 20px;
+    }
+    .rowFirstWithProducts{
+        display: flex;
+        width: 100%;
+        max-width: 100%;
+        min-width: 200px;
+        min-height: 300px;
+        max-height: 500px;
+    }
+    
+    .colomSetWithProducts{
+        justify-content: space-between;
+        margin: 15px;
+        width: 10%;
+        margin: 50px;
+        margin-top: 4em;
+        align-items: center;
+        margin-left: 5em;
+    }
+    .colomSetWithProducts img{
+        width:120px;
+        height: 150px;
+    }
+    .nameSet{
+        width: 200px;
+        height: auto;
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .nameColomSet{
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .rowsecondSet{
+        width: 100px;
+        height: auto;
+      margin-top: 5px;
+      margin-left: 1em;
+      font-size: 12px;
+    }
+}
+

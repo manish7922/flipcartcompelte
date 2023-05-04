@@ -1,0 +1,969 @@
+.firstRowM {
+  margin-top: 1em;
+  width: 100%;
+  height: auto;
+  min-width: 300px;
+  min-height: auto;
+  /* background-color: lightgrey; */
+}
+
+.colomfirst {
+  min-width: 300px;
+}
+
+.colomSecond {
+  min-width: 300px;
+  /* max-height: 70vh; */
+}
+.navbarClass {
+  box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+  color: black;
+  text-decoration: none;
+}
+
+.LinkClass {
+  color: black;
+  text-decoration: none;
+}
+.rowSetClassFor {
+  width: 100%;
+  min-width: 200px;
+  min-height: auto;
+  max-height: auto;
+}
+.setColomView {
+  width: 10%;
+  min-width: 200px;
+  min-height: auto;
+  max-height: auto;
+}
+.setColomView img {
+  height: 200px;
+  width: 100px;
+  cursor: pointer;
+}
+
+.colomFiveView {
+  max-width: 100%;
+  min-width: 200px;
+  min-height: 10px;
+  max-height: 40px;
+}
+
+.rowFiveSetView {
+  max-width: 100%;
+  min-width: 200px;
+  min-height: 10px;
+  max-height: 40px;
+}
+
+.fiveColomFirst {
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+.rowTwoFiveSetView {
+  max-width: 100%;
+  min-width: 200px;
+  /* min-height: 100px;
+max-height: auto; */
+}
+
+.colomSecondSetView {
+  max-width: 100%;
+  min-width: 200px;
+}
+
+.spanFirstClass {
+  line-height: normal;
+  display: inline-block;
+  color: #fff;
+  padding: 2px 4px 2px 6px;
+  border-radius: 3px;
+  font-weight: 500;
+  font-size: 12px;
+  vertical-align: middle;
+  background-color: #388e3c;
+}
+
+.setunOrderList {
+  color: #c2c2c2;
+  font-size: 12px;
+  display: inline;
+  padding: 0%;
+}
+.colomLastView {
+  width: 10%;
+  max-width: 100%;
+  min-width: 200px;
+}
+
+.rowExchange {
+  font-size: 10px;
+}
+
+.rowFiveColomView {
+}
+.colomSetfiveView {
+  font-size: 25px;
+}
+
+._3vtB3Y {
+    position: fixed;
+    z-index: 3;
+    bottom: 24px;
+    right: 24px;
+    will-change: transform;
+}
+.x-O15Q {
+    position: relative;
+}
+._87aCMT {
+    background-color: #2874f0;
+    transition: background-color .2s ease-in;
+}
+
+._11o22n {
+    font-size: 14px;
+    border-radius: 2px;
+    color: #fff;
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    cursor: pointer;
+    font-weight: 500;
+    height: 40px;
+    width: 144px;
+    background-color: #2874f0;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+}
+._3hShhO {
+    display: inline-block;
+    padding-left: 24px;
+    padding-top: 12px;
+}
+._3D32sd {
+    display: inline-block;
+    position: relative;
+}
+
+
+.MxXpTK {
+    position: absolute;
+    top: -15px;
+    margin-left: 14px;
+    border-radius: 2px;
+    background-color: rgba(0,0,0,.2);
+    padding: 0;
+    pointer-events: none;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+}
+
+._3SPq6V {
+    -webkit-transform-origin: bottom;
+    transform-origin: bottom;
+}
+  .spanFirstClassReviw{
+    cursor: pointer;
+    background-color: #2874f0;
+    box-shadow:1px 2px 10px -1px rgba(0,0,0,.3) ;
+    align-self: center;
+    padding: 10px 15px;
+    border-radius: 10px;
+
+    margin: 3em;
+}
+@media (max-width: 1200px) {
+    .navbarClass {
+        box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+        color: black;
+        text-decoration: none;
+      }
+      
+      .LinkClass {
+        color: black;
+        text-decoration: none;
+      }
+  .firstRowM {
+    margin-top: 2em;
+    width: 100%;
+    height: auto;
+    min-width: 300px;
+    min-height: auto;
+  }
+  .rowSetClassFor {
+    width: 100%;
+    min-width: 200px;
+  }
+
+  .colomfirst {
+    width: 20%;
+  }
+  .colomSecond {
+    width: 70%;
+  }
+  .rowTwoFiveSetView {
+    max-width: 100%;
+    min-width: 200px;
+    /* min-height: 100px;
+        max-height: auto; */
+  }
+
+  .colomSecondSetView {
+    max-width: 100%;
+    min-width: 200px;
+  }
+
+  .spanFirstClass {
+    line-height: normal;
+    display: inline-block;
+    color: #fff;
+    padding: 2px 4px 2px 6px;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 12px;
+    vertical-align: middle;
+    background-color: #388e3c;
+  }
+}
+
+/* styles for screens smaller than 998px */
+@media (max-width: 998px) {
+    .navbarClass {
+        box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+        color: black;
+        text-decoration: none;
+      }
+      
+      .LinkClass {
+        color: black;
+        text-decoration: none;
+      }
+  .firstRowM {
+    margin-top: 7em;
+    width: 100%;
+    /* height: auto; */
+    min-width: 700px;
+    /* min-height: auto; */
+  }
+  .rowSetClassFor {
+max-width: 100%;
+min-width: 400px;
+max-height: 900px;
+min-height:465px;
+  }
+
+  .setimage {
+    padding: 10px;
+  }
+  .colomfirst {
+    width: 10%;
+  }
+  .colomSecond {
+    width: 60%;
+    /* height: 15vh; */
+  }
+  .setColomView {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .colomFiveView {
+    padding-top: 5px;
+    max-width: 100%;
+    min-width: 300px;
+    max-height: 250px;
+    min-height: 150px;
+  }
+  .prodName {
+    font-size: 16px;
+  }
+
+
+  /* .rowsetReview{
+width: 100%;
+  } */
+
+
+  .setunOrderList {
+    font-size: 15px;
+  }
+
+  .setColomView {
+    width: 10%;
+    min-width: 200px;
+    min-height: auto;
+    max-height: auto;
+    margin-left: 7em;
+  }
+  .setColomView img {
+    height: 200px;
+    width: 100px;
+    cursor: pointer;
+  }
+  .colomSetfiveView {
+    font-size: 20px;
+  }
+  .colomLastView {
+    width: 10%;
+    max-width: 100%;
+    min-width: 100px;
+    margin-left: 27em;
+    margin-top: -14em;
+  }
+  .rowTwoFiveSetView {
+    max-width: 100%;
+    min-width: 200px;
+    /* min-height: 100px;
+            max-height: auto; */
+  }
+
+  .colomSecondSetView {
+    max-width: 100%;
+    min-width: 200px;
+    font-size: 10px;
+  }
+
+  .spanFirstClass {
+    line-height: normal;
+    display: inline-block;
+    color: #fff;
+    padding: 2px 4px 2px 6px;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 10px;
+    vertical-align: middle;
+    background-color: #388e3c;
+  }
+}
+
+@media (max-width: 760px) {
+    .firstRowM {
+        margin-top: 7em;
+        width: 100%;
+        min-width: 600px;
+    
+      }
+    .navbarClass {
+        box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+        color: black;
+        text-decoration: none;
+        width: 40%;
+      }
+      
+      .LinkClass {
+        color: black;
+        text-decoration: none;
+      }
+  .rowSetClassFor {
+    /* display: block; */
+    width: 100%;
+    min-width: 400px;
+    min-height: 500px;
+    max-height: 500px;
+    margin-left: 1em;
+  }
+  .setimage {
+    padding: 10px;
+  }
+  .colomfirst {
+    width: 5%;
+  }
+  .colomSecond {
+    width: 40%;
+    max-width: 100%;
+    min-width: 400px;
+    margin-left: -5em;
+    height: auto;
+  }
+  .setColomView {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .colomFiveView {
+    padding-top: 5px;
+    max-width: 100%;
+    min-width: 250px;
+    max-height: 250px;
+    min-height: 150px;
+  }
+  .prodName {
+    font-size: 17px;
+  }
+  .setunOrderList {
+    width: 50%;
+    font-size: 15px;
+  }
+  .colomSetfiveView {
+    font-size: 15px;
+  }
+
+  .colomLastView {
+ /* margin-left: -10em;  */
+ max-width: 100%;
+ min-width: 250px;
+ margin-left: -26em;
+ margin-top: 14.5em; 
+ /* float: left; */
+ /* align-items: left; */
+  }
+  .rowExchange {
+ font-size: 14px;
+  }
+
+
+  /* .setunOrderList {
+    font-size: 10px;
+  } */
+
+  .setColomView {
+    width: 10%;
+    min-width: 200px;
+    min-height: auto;
+    max-height: auto;
+    margin-left: 7em;
+  }
+  .setColomView img {
+    height: 200px;
+    width: 100px;
+    cursor: pointer;
+  }
+  .colomSetfiveView {
+    font-size: 20px;
+  }
+
+  .rowTwoFiveSetView {
+    max-width: 100%;
+    min-width: 200px;
+    /* min-height: 100px;
+                        max-height: auto; */
+  }
+
+  .colomSecondSetView {
+    max-width: 100%;
+    min-width: 200px;
+    font-size: 15px;
+  }
+
+  .spanFirstClass {
+    line-height: normal;
+    display: inline-block;
+    color: #fff;
+    padding: 2px 4px 2px 6px;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 10px;
+    vertical-align: middle;
+    background-color: #388e3c;
+  }
+}
+
+
+@media (max-width: 630px) {
+    .firstRowM {
+        margin-top:6em;
+    max-width: 100%;
+ 
+        min-width: 300px;
+    
+      }
+    .rowSetClassFor {
+      /* display: block; */
+      width: 100%;
+      min-width: 250px;
+      min-height: 520px;
+      max-height: 700px;
+    }
+    .setimage {
+      padding: 10px;
+    }
+    .navbarClass {
+        box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+        color: black;
+        text-decoration: none;
+        width: 25%;
+        font-size: 8px;
+      }
+      .LinkClass {
+        color: black;
+        text-decoration: none;
+      }
+    .colomfirst {
+  max-width: 100%;
+  min-width: 300px;
+    }
+    .colomSecond {
+      width: 10%;
+      max-width: 100%;
+      min-width: 200px;
+      margin-left: -2em;
+      /* height: 150vh; */
+
+    }
+    .setColomView {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    .colomFiveView {
+      padding-top: 2em;
+ 
+      max-width: 100%;
+      min-width: 250px;
+      max-height: 250px;
+      min-height: 150px;
+    }
+    .prodName {
+      font-size: 16px;
+    }
+    .setColomView {
+        position: relative;
+     max-width: 100%;
+      min-width: 200px;
+      min-height: 100px;
+ max-height: 180px;
+      margin-left: 3em;
+    }
+    .setColomView img {
+      height: 200px;
+      width: 100px;
+      cursor: pointer;
+      float: center;
+    }
+    .colomSetfiveView {
+      font-size: 5px;
+    }
+    .colomLastView {
+      width: 5%;
+      max-width: 100%;
+      min-width: 200px;
+    }
+    .rowExchange {
+      font-size: 10px;
+    }
+    .colomLastView {
+      margin-left: 0em;
+      margin-top: 2em;
+    }
+
+  
+    .colomSetfiveView {
+      font-size: 20px;
+    }
+    .colomLastView {
+      width: 10%;
+      max-width: 100%;
+      min-width: 200px;
+    }
+    .rowTwoFiveSetView {
+      max-width: 10%;
+      min-width: 200px;
+      /* min-height: 100px;
+                          max-height: auto; */
+    }
+  
+    .colomSecondSetView {
+      max-width: 10%;
+      min-width: 200px;
+      font-size: 10px;
+    }
+  
+    .spanFirstClass {
+      line-height: normal;
+      display: inline-block;
+      color: #fff;
+      padding: 2px 4px 2px 6px;
+      border-radius: 3px;
+      font-weight: 500;
+      font-size: 10px;
+      vertical-align: middle;
+      background-color: #388e3c;
+    }
+    .wishList{
+        margin-left: -4em;
+    }
+    .spanFirstClassReviw{
+        cursor: pointer;
+        background-color: #2874f0;
+        /* box-shadow:1px 2px 10px -1px rgba(0,0,0,.3) ; */
+        align-self: center;
+        padding: 10px 5px;
+        border-radius: 10px;
+        float: right;
+        margin: 1em;
+    }
+    .rowsetReview{
+max-width: 100%;
+min-width: 200px;
+  }
+  
+    .setunOrderList {
+      font-size: 12px;
+    }
+
+    /* .setFormComapre{
+      margin-top: 16em;
+      margin-left: -7em;
+      } */
+
+      
+      .breadcrumb{
+        display: flex;
+        width: 100px;
+      }
+  }
+
+
+  
+@media (max-width: 500px) {
+    .firstRowM {
+        margin-top: 5em;
+        width: 100%;
+        /* height: auto; */
+        min-width: 300px;
+        /* min-height: auto; */
+      }
+    .rowSetClassFor {
+      /* display: block; */
+      width: 100%;
+      min-width: 100px;
+      min-height: 500px;
+      max-height: 700px;
+      /* margin-top: 1em; */
+    }
+    .setimage {
+      padding: 10px;
+    }
+    .navbarClass {
+        box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+        color: black;
+        text-decoration: none;
+        width: 25%;
+        font-size: 8px;
+      }
+      .LinkClass {
+        color: black;
+        text-decoration: none;
+      }
+  
+           .colomfirst {
+            min-width: 240px;
+            max-width: 150px;
+            float: left;
+              }
+              .colomSecond {
+                /* width: 10%; */
+                max-width: 100%;
+                min-width: 200px;
+                max-height: 700px;
+                min-height: 410px;
+            margin-top: 1em;
+            margin-left: -5em;
+          
+              }
+    .setColomView {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    .colomFiveView {
+      padding-top: 5px;
+      padding-top: 5px;
+      max-width: 100%;
+      min-width: 200px;
+      max-height: 150px;
+      min-height: 100px;
+    }
+    .prodName {
+      font-size: 12px;
+    }
+    /* .setunOrderList {
+      width: 50%;
+      font-size: 10px;
+    } */
+    .setColomView {
+        position: relative;
+      width: 10%;
+      min-width: 200px;
+      min-height: auto;
+      max-height: auto;
+      margin-left: 1em;
+    }
+    .setColomView img {
+      height: 50px;
+      width: 50px;
+      cursor: pointer;
+      float: left;
+    }
+    .colomSetfiveView {
+      font-size: 10px;
+    }
+    .colomLastView {
+      width: 5%;
+      /* max-width: 100%;
+      min-width: 200px; */
+    }
+    .rowExchange {
+      font-size: 10px;
+    }
+    .colomLastView {
+      margin-left: 0em;
+      margin-top: 0em;
+    }
+    .rowsetReview{
+      width: 100%;
+  }
+  
+    .setunOrderList {
+      font-size: 12px;
+    }
+  
+    .setColomView {
+      width: 10%;
+      min-width: 200px;
+      min-height: auto;
+      max-height: auto;
+    }
+    .setColomView img {
+        margin-top: 1em;
+      height: 100px;
+      width: 50px;
+      cursor: pointer;
+    }
+    .colomSetfiveView {
+      font-size: 20px;
+      margin-top: 3em;
+    }
+    .colomLastView {
+      width: 10%;
+      max-width: 100%;
+      min-width: 200px;
+    }
+    .rowTwoFiveSetView {
+      max-width: 10%;
+      min-width: 200px;
+    }
+  
+    .colomSecondSetView {
+      max-width: 10%;
+      min-width: 200px;
+      font-size: 12px;
+    }
+  
+    .spanFirstClass {
+      line-height: normal;
+      display: inline-block;
+      color: #fff;
+      padding: 2px 4px 2px 6px;
+      border-radius: 3px;
+      font-weight: 500;
+      font-size: 10px;
+      vertical-align: middle;
+      background-color: #388e3c;
+    }
+    .wishList{
+        margin-left: -8em;
+        margin-top: 10px;
+    }
+    .spanFirstClassReviw{
+        cursor: pointer;
+        background-color: #2874f0;
+        margin-top: 0.8em;
+        margin: 2em;
+    }
+    .setFormComapre{
+    margin-top: 9em;
+    }
+    .spanFirstClassReviw{
+        cursor: pointer;
+        background-color: #2874f0;
+        /* box-shadow:1px 2px 10px -1px rgba(0,0,0,.3) ; */
+        align-self: center;
+        padding: 10px 5px;
+        border-radius: 10px;
+        float: right;
+        margin: 1em;
+    }
+    
+    .breadcrumb{
+      display: flex;
+      width: 100px;
+    }
+  }
+
+
+  @media (max-width: 400px) {
+    .firstRowM {
+        margin-top: 4em;
+        width: 90%;
+        min-width: 100px;
+   
+      }
+    .rowSetClassFor {
+   max-width: 100%;
+      min-width: 150px;
+      min-height: 450px;
+      max-height: 700px;
+      margin-left: -0.5em;
+    }
+    .setimage {
+      padding: 10px;
+    }
+    .navbarClass {
+        box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+        color: black;
+        text-decoration: none;
+        width: 25%;
+        font-size: 8px;
+      }
+  
+    .colomfirst {
+  min-width: 200px;
+  max-width: 10px;
+    }
+    .colomSecond {
+      width: 10%;
+      max-width: 100%;
+      min-width: 100px;
+      margin-left: -5em;
+      /* height: 150vh; */
+
+    }
+    .setColomView {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    .colomFiveView {
+      padding-top: 5px;
+      max-width: 100%;
+      min-width: 100px;
+      max-height: 150px;
+      min-height: 100px;
+    }
+    .prodName {
+      font-size: 10px;
+    }
+    .setColomView {
+        position: relative;
+      width: 10%;
+      min-width: 200px;
+      min-height: auto;
+      max-height: auto;
+      margin-left: 1em;
+    }
+    .setColomView img {
+      height: 50px;
+      width: 50px;
+      cursor: pointer;
+      float: left;
+    }
+    .colomSetfiveView {
+      font-size: 5px;
+    }
+    .colomLastView {
+      width: 5%;
+      max-width: 100%;
+      min-width: 100px;
+    }
+    .rowExchange {
+      font-size: 10px;
+    }
+
+.rowsetReview{
+    width: 70%;
+}
+  
+    .setunOrderList {
+      font-size: 10px;
+    }
+  
+    .setColomView {
+max-width: 100%;
+      min-width: 150px;
+      min-height: auto;
+      max-height: auto;
+    }
+    .setColomView img {
+        margin-top: 1em;
+      height: 100px;
+      width: 50px;
+      cursor: pointer;
+      margin-left: -1em;
+    }
+    .colomSetfiveView {
+      font-size: 20px;
+      /* margin-top: 3em; */
+    }
+
+    .rowTwoFiveSetView {
+      max-width: 10%;
+      min-width: 100px;
+    }
+  
+    .colomSecondSetView {
+      max-width: 10%;
+      min-width: 100px;
+      font-size: 10px;
+    }
+  
+    .spanFirstClass {
+      line-height: normal;
+      display: inline-block;
+      color: #fff;
+      padding: 2px 4px 2px 6px;
+      border-radius: 3px;
+      font-weight: 500;
+      font-size: 10px;
+      vertical-align: middle;
+      background-color: #388e3c;
+    }
+    .wishList{
+        margin-left: -8em;
+        margin-top: 10px;
+    }
+    .spanFirstClassReviw{
+        cursor: pointer;
+        background-color: #2874f0;
+        margin-top: 0.8em;
+        margin: 2em;
+    }
+    .setFormComapre{
+    margin-top: 9em;
+    margin-left: -5em;
+    }
+
+    .setnextWidth{
+      max-width: 100%;
+      min-width: 100px;
+    }
+
+    .spanFirstClassReviw{
+        cursor: pointer;
+        background-color: #2874f0;
+        /* box-shadow:1px 2px 10px -1px rgba(0,0,0,.3) ; */
+        align-self: center;
+        padding: 10px 5px;
+        border-radius: 10px;
+        float: right;
+        margin: 3em;
+    }
+    .rowsetWitbreadcrumb{
+    max-width: 100px;
+    min-width: 100px;
+    display: flex;
+    }
+
+    .LinkClass {
+      color: black;
+      text-decoration: none;
+    }
+
+    .breadcrumb{
+      display: flex;
+      width: 100px;
+    }
+
+
+  }

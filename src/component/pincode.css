@@ -1,0 +1,23 @@
+
+.colomSetPinCode{
+    display: flex;
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 14px;
+
+    outline: none;
+    width: 144px;
+    vertical-align: middle;
+   }
+   .rowPinCodeSet{
+    margin-top: 10px;
+    height: auto;
+   }
+.delivery{
+    margin-top: 20px;
+   }
+
+   .handleCheck{
+color: wheat;
+margin-top: -5px;
+   }

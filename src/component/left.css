@@ -1,0 +1,122 @@
+.heading{
+    width: 100;
+margin-top: 5px;
+margin-bottom: 1rem;
+margin-left: 1em;
+margin-right: 0.5em;
+align-items: center;
+box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);    
+}
+.filter{
+    font-size: 20px;
+    align-self: center;
+    margin-left: 5em;
+    font-weight: 500;
+}
+
+.setColFiter{
+    font-size: 15px;
+    align-self: center;
+    margin-left: 3em;
+    font-weight: 500; 
+}
+@media (max-width: 998px) {
+    .heading{
+        width: 80%;
+    margin-top: 5px;
+    margin-bottom: 1rem;
+    margin-left: 1em;
+    margin-right: 0.5em;
+    align-items: center;
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);    
+    }
+    .filter{
+        font-size: 15px;
+        align-self: center;
+        margin-left: 5em;
+        font-weight: 500;
+    }
+    
+    .setColFiter{
+        font-size: 12px;
+        align-self: center;
+        margin-left: 3em;
+        font-weight: 500; 
+    }
+}
+
+@media (max-width: 640px) {
+    .heading{
+        width: 70%;
+    margin-top: 5px;
+    margin-bottom: 1rem;
+    margin-left: 1em;
+    margin-right: 0.5em;
+    align-items: center;
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);    
+    }
+    .filter{
+        font-size: 15px;
+        align-self: center;
+        /* margin-left: 5em; */
+        font-weight: 500;
+    }
+    
+    .setColFiter{
+        font-size: 14px;
+        align-self: center;
+ 
+        font-weight: 500; 
+    }
+}
+@media (max-width: 500px) {
+    .heading{
+      max-width: 90%;
+      min-width: 30px;
+    margin-top: 5px;
+    margin-bottom: 1rem;
+    align-items: center;
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+    margin-left: 0.5em;   
+    }
+    .filter{
+        font-size: 12px;
+        align-self: left;
+        font-weight: 500;
+        margin-left: -0.8em
+    }
+    
+    .setColFiter{
+        font-size: 14px;
+        align-self: left;
+        /* margin-left: 3em; */
+        font-weight: 500;
+        margin-left: -0.8em 
+    }
+}
+
+@media (max-width: 400px) {
+    .heading{
+      max-width: 90%;
+      min-width: 30px;
+    margin-top: 5px;
+    margin-bottom: 1rem;
+    align-items: center;
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+    margin-left: 0.5em;   
+    }
+    .filter{
+        font-size: 10px;
+        align-self: left;
+        font-weight: 500;
+        margin-left: -1em
+    }
+    
+    .setColFiter{
+        font-size: 12px;
+        align-self: left;
+        /* margin-left: 3em; */
+        font-weight: 500;
+        margin-left: -1em 
+    }
+}
